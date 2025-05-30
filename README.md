@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohitPatidar07
-- 👀 I’m interested in c , java , python , html-css , javascript , sql 
+- 👀 I’m interested in c , java , python , html-css , javascript , React JS , sql 
 - 🌱 I’m currently learning react js , node.js
 - 🔭 I’m currently working on problem solving.
 - 👀 I’m looking to collaborate on full stack development project.
